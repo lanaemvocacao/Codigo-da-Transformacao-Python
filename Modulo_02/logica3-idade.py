@@ -5,7 +5,7 @@
 nome_lindo=input('Digite seu nome: ')
 print(f'Olá,{nome_lindo}')
 
-print(f'{nome_lindo} Digite sua idade do: ')
+print(f'{nome_lindo} Digite sua idade : ')
 
 idade = int(input())
 if idade <= 12:
